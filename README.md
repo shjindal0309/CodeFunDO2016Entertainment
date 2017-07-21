@@ -1,3 +1,5 @@
+I developed this website in group during CodeFunDO organised in my college, IIT Guwahati, in 2016
+
 # Entertainment
 
 Step 1: Install node on your machine.
